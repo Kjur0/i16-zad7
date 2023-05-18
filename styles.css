@@ -1,0 +1,34 @@
+body {
+	background-color: white;
+	text-align: center;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	background-color: palegreen;
+}
+
+th {
+	height: 40px;
+	width: 40px;
+	background-color: palegoldenrod;
+	border: 2px solid goldenrod;
+	text-align: center;
+	color: darkgoldenrod;
+	font-weight: bolder;
+}
+td {
+	height: 40px;
+	width: 40px;
+	border: 2px solid green;
+	text-align: center;
+	color: darkgreen;
+	font-weight: normal;
+}
+
+h3 {
+	margin: 0;
+}

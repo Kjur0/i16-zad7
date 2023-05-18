@@ -3,11 +3,7 @@
 
 <head>
 	<title>Tabliczka mnożenia</title>
-	<style>
-		h3 {
-			margin: 0;
-		}
-	</style>
+	<link href="styles.css" rel="stylesheet">
 </head>
 
 <body>
